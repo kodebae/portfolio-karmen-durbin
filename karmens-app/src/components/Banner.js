@@ -58,7 +58,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <h1>{`Hey! I'm Karmen,`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Software Engineer.", "Digital Marketing Developer."]'><span className="wrap">{text}</span></span></h1>
                   <p>A Software Engineer with a professional background in marketing and communications. Want to know more?</p>
-                  {/* <button onClick={() =>('')}>Let’s Connect <ArrowRightCircle size={25}/></button> */}
+                  {/* <button onClick={() =>('href="https://www.linkedin.com/in/karmen-kristina-durbin/"> ')}>Let’s Connect <ArrowRightCircle size={25}/></button> */}
               </div>}
             </TrackVisibility>
           </Col>

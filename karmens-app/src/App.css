@@ -82,6 +82,7 @@ p.danger {
 	color: red;
 }
 /************ Navbar ************/
+
 nav.navbar {
   padding: 18px 0;
   position: fixed;
@@ -186,8 +187,8 @@ span.navbar-text {
 }
 nav.navbar .navbar-toggler:active,
 nav.navbar .navbar-toggler:focus {
-	outline: none;
-    box-shadow: none;
+outline: none;
+box-shadow: none;
 }
 nav.navbar .navbar-toggler-icon {
   width: 24px;
@@ -199,7 +200,7 @@ nav.navbar .navbar-toggler-icon {
   top: -2px;
 }
 nav.navbar .navbar-toggler-icon:focus {
-	border-bottom: 2px solid #fff;
+border-bottom: 2px solid #fff;
 }
 nav.navbar .navbar-toggler-icon:after,
 nav.navbar .navbar-toggler-icon:before {
